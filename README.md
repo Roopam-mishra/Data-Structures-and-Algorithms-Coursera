@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms-Coursera
 
-Completed 4 out of 6 courses of [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) of Coursera.
+Completed 4 out of 6 courses of [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by University of California San Diego.
 
 This repository contains my solutions for the assignments of the four courses. The language I used in the solutions is C++.
 Here are my solutions.<br><br>
